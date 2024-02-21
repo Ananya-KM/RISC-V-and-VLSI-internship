@@ -8,14 +8,14 @@ sudo apt-get install autoconf automake autotools-dev curl python3 libmpc-dev lib
  git clone https://github.com/riscv/riscv-gnu-toolchain</p>
  ![WhatsApp Image 2024-02-21 at 2 52 14 PM (3)](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/9412c67c-b04f-4200-a6ae-455e8bfdcfab)
  Create a opt dir
-mkdir /opt/riscv try sudo incase of permission denial
+mkdir /opt/riscv  try sudo incase of permission denial</p>
 
-In my case I created a driectory mkdir riscv and chmod 777 home/nawras/riscv
+create a driectory mkdir riscv and chmod 777 home/ananya/riscv
 
 Config and make inside the risc-v gnu toolchain dir
 ./configure --prefix=/opt/riscv
 
-In my case ./configure --prefix=/home/nawras/riscv
+In my case ./configure --prefix=/home/ananya/riscv
 
 Then make </p>
 ![WhatsApp Image 2024-02-21 at 2 52 14 PM](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/be231609-945a-43a8-9cb8-250138af59c2)
