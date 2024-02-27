@@ -7,19 +7,22 @@ leafpad sum1ton.c& (sum1ton.c is the file name)
 If the leafpad editor is opened without any errors then type the C code.**
 ****If the leafpad is not installed in ur machine then install by using the following command**
 
-**sudo snap install leafpad****
+**sudo snap install leafpad****</p>
+
 ![WhatsApp Image 2024-02-24 at 8 31 34 PM](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/c2539fc5-cd4c-4c95-addb-b9e0d98418a7)
 
 
 ****Step 2: Writing the C code in the leafpad editor** using the following command
 
-**leafpad sum1ton.c&**
+**leafpad sum1ton.c&**</p>
+
 ![Leafpad_editor]![WhatsApp Image 2024-02-24 at 8 31 34 PM (1)](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/369a9ebf-478c-4ea2-8f18-0f3561338566)
 
 
 **Step 3: After writing the C code save the editor by Ctrl+s**
 
-**Step 4: Check for the errors by using the following command(compilation step)**
+**Step 4: Check for the errors by using the following command(compilation step)**</p>
+
 ![WhatsApp Image 2024-02-24 at 8 31 33 PM](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/94876e45-2a5b-43a9-b08d-53f99b542d3c)
 
 **gcc sum1ton.c**
@@ -37,7 +40,8 @@ If the leafpad editor is opened without any errors then type the C code.**
 
 **Step 1: View the C Code in the editor window using the following command**
 
-**cat sum1ton.c**
+**cat sum1ton.c**</p>
+
 ![view in the C code in notepad]
 
 ![WhatsApp Image 2024-02-27 at 10 19 33 AM](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/7e0d36ae-cadb-4e46-8892-536e392749a0)
