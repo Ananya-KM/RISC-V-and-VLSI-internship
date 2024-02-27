@@ -61,10 +61,9 @@ If the leafpad editor is opened without any errors then type the C code.**
 
 ![WhatsApp Image 2024-02-27 at 10 16 51 AM](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/f11114a5-c0fa-4c81-892b-dc4e011d7fb3)
 
-
-
+</p>
 **Search for the Main and check the instructions of the C code execution. It has 15 instructions in the C execution**
-
+</p>
 
 ![WhatsApp Image 2024-02-27 at 10 16 51 AM (1)](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/4217c854-3fa5-4e6d-8fe7-802d66800891)
 
