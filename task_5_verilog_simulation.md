@@ -77,44 +77,6 @@ $ ./hello
 
  The output waveform showing the instructions performed in a 5-stage pipelined architecture.
  
- Instruction 1:add r6,r2,r1
- <img width="1282" alt="1" src="https://github.com/Abdulbitm/Abdul/assets/160620896/9475de20-c117-476a-bebc-54dd3548c109">
-
- Instruction 2:sub r7,r1,r2
- <img width="1280" alt="2" src="https://github.com/Abdulbitm/Abdul/assets/160620896/2c95f18f-191e-4500-9cda-e7e838d1e609">
-
-Instruction 3:and r8,r1,r3
-<img width="1282" alt="3" src="https://github.com/Abdulbitm/Abdul/assets/160620896/18bfdf76-1173-4984-b50b-83443ab48596">
-
-Instruction 4:or r9,r2,r5
-<img width="1294" alt="4" src="https://github.com/Abdulbitm/Abdul/assets/160620896/4f214bb2-c934-4778-bf46-841efe877fb8">
-
- Instruction 5:xor r10,r1,r4
- <img width="1293" alt="5" src="https://github.com/Abdulbitm/Abdul/assets/160620896/6fa91f49-5e73-4133-8bf6-84ec4aca64da">
-
- Instruction 6:slt r11,r2,r4
-<img width="1290" alt="6" src="https://github.com/Abdulbitm/Abdul/assets/160620896/c9c32048-62ed-4f55-8e11-9763816b1bd1">
-
- Instruction 7:addi r12,r4,5
- <img width="1285" alt="7" src="https://github.com/Abdulbitm/Abdul/assets/160620896/308b8a9d-46c8-4a0e-8824-90e11d9a6a1e">
-
- Instruction 8:sw r3,r1,2
- <img width="1280" alt="8" src="https://github.com/Abdulbitm/Abdul/assets/160620896/84f16d7f-9d16-4236-b64d-615e187a00ff">
-
- Instruction 9:lw r13,r1,2
-<img width="1295" alt="9" src="https://github.com/Abdulbitm/Abdul/assets/160620896/c7bc7d9a-6745-4eeb-903d-fa723dca1394">
-
- Instruction 10:beq r0,r0,15
- <img width="1287" alt="10" src="https://github.com/Abdulbitm/Abdul/assets/160620896/a1c6781f-c301-45d9-a502-fb32e6204e4c">
-
- After branching, performing
- Instruction 11:add r14,r2,r2
- <img width="1287" alt="11" src="https://github.com/Abdulbitm/Abdul/assets/160620896/56b50ce0-60aa-41fe-8f53-0b4583b39665">
-
-  Full 5-stage instruction pipeline and pc-increment description Waveform
-  
-<img width="1325" alt="12" src="https://github.com/Abdulbitm/Abdul/assets/160620896/e5ebc923-ad2c-44fc-a577-3ce7b8419bce">
-
 ![WhatsApp Image 2024-03-02 at 2 18 31 PM](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/19479e1e-3812-47b8-a5e0-3271f86bad0e)
 
 
