@@ -2,15 +2,7 @@
 # Veriog code is being executed and the waveforms are generated using the gtkwave
 
 # Aim: To verify the Functional Simulation:-
-# Table of contents
-- [1.RISC-V RV32I](#1-RISC-V-RV32I)
- - [2.BLOCK DIAGRAM OF RISC-V RV32I](#2-BLOCK-DIAGRAM-OF-RISC-V-RV32I)
- - [3.INSTRUCTION SET OF RISC-V RV32I](#3-INSTRUCTION-SET-OF-RISC-V-RV32I)
- - [4.FUNCTIONAL SIMULATION](#4-FUNCTIONAL-SIMULATION)
-    - [4.1 About iverilog and gtkwave](#41-About-iverilog-and-gtkwave)
-    - [4.2 Installing iverilog and gtkwave](#42-Installing-iverilog-and-gtkwave)
-    - [4.3 The output waveform](#43-The-output-waveform)
-  
+
   
 ## 4. FUNCTIONAL SIMULATION
 
