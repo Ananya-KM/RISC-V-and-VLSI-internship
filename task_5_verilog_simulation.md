@@ -1,5 +1,4 @@
-# As per the Update given for the next task "Should Use the RISC-V Core Verilog netlist and testbench for functional Simulation.
-# Veriog code is being executed and the waveforms are generated using the gtkwave
+# task_5_verilog_simulation
 
 # Aim: To verify the Functional Simulation:-
 
