@@ -27,34 +27,43 @@
 ```
 ![WhatsApp Image 2024-03-02 at 2 15 36 PM](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/fe7fb60f-7adf-48d6-bda5-8cde09d2b82a)
 
+**after running the command
+gtkwave ananya.vcd** the following window appears
+![WhatsApp Image 2024-03-20 at 3 21 26 PM](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/b9b59277-8f93-4302-a661-d9eeaa71e65f)
 
-- **To simulate and run the Verilog code, enter the following commands in your terminal.**
-
-```
-$ iverilog -o hello hello.v hello_tb.v
-$ ./hello
-
-```
-
-![WhatsApp Image 2024-03-02 at 2 18 30 PM](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/3eec8e32-84ef-4658-b7a9-2c5cc3d3b5e6)
+**now on execution of the above command ananya.vcd**
+![WhatsApp Image 2024-03-20 at 3 21 26 PM](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/29f8ba89-8d07-4b4e-a5b8-557a4d190d08)
 
 
+on adding few signals the waves can be see as follows
+![WhatsApp Image 2024-03-20 at 3 20 26 PM (1)](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/6081f8cb-3bb4-4ccd-865f-08f1b6a21c9a)
 
-- **To see the output waveform in gtkwave, enter the following commands in your terminal.**
-
-`$ gtkwave hello.vcd`
-
-
-![WhatsApp Image 2024-03-02 at 2 18 19 PM](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/b3b73f1f-aac7-4703-88c0-a731c8eb77e8)
+![WhatsApp Image 2024-03-20 at 7 26 49 PM](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/2cea7bfc-c135-409f-a5a8-5112a4bfb71a)
 
 
+**Output showing the ADD Operation**
 
-### 4.3 The output waveform
+![WhatsApp Image 2024-03-20 at 7 26 49 PM (1)](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/513e0525-ca59-435a-8850-a0fef48b0e79)
 
- The output waveform showing the instructions performed in a 5-stage pipelined architecture.
- 
-![WhatsApp Image 2024-03-02 at 2 18 31 PM](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/19479e1e-3812-47b8-a5e0-3271f86bad0e)
+**Output showing the SUB Operation**
+![WhatsApp Image 2024-03-20 at 7 26 49 PM (1)](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/cada76c0-ad4d-4197-a15c-83a036171d50)
 
 
-![WhatsApp Image 2024-03-02 at 2 18 01 PM](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/980520eb-1c58-48b2-9350-42cd17b15e89)
+**Output showing the AND Operation**
+![WhatsApp Image 2024-03-20 at 7 26 49 PM (4)](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/b5063f18-0d7d-4870-90a4-09b080e59c64)
+
+
+**Output showing the OR Operation**
+![WhatsApp Image 2024-03-20 at 7 26 50 PM](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/79a63015-dac2-4cae-8e57-3abb42c2332d)
+
+
+**Output showing the X-OR Operation**
+![WhatsApp Image 2024-03-20 at 7 26 50 PM (1)](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/a8050e9c-2aa6-4a8f-bac0-94d245dee666)
+
+
+
+
+
+
+
 
