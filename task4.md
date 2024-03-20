@@ -38,11 +38,12 @@ on adding few signals the waves can be see as follows
 
 
 **Output showing the ADD Operation**
+![WhatsApp Image 2024-03-20 at 7 26 49 PM (1)](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/5c145ef7-07fe-4bbc-8208-1c8c36a42ddc)
 
-![WhatsApp Image 2024-03-20 at 7 26 49 PM (1)](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/513e0525-ca59-435a-8850-a0fef48b0e79)
 
 **Output showing the SUB Operation**
-![WhatsApp Image 2024-03-20 at 7 26 49 PM (1)](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/cada76c0-ad4d-4197-a15c-83a036171d50)
+
+![WhatsApp Image 2024-03-20 at 7 26 49 PM (3)](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/ae9a69a3-dcff-4412-acf6-cfad0eedca5f)
 
 
 **Output showing the AND Operation**
