@@ -1,9 +1,9 @@
-# task_5_verilog_simulation
+# task_4_verilog_simulation
 
 # Aim: To verify the Functional Simulation:-
 
   
-## 4. FUNCTIONAL SIMULATION
+
 
 
 ### 4.2 Installing iverilog and gtkwave
@@ -36,7 +36,6 @@ gtkwave ananya.vcd** the following window appears
 
 
 on adding few signals the waves can be see as follows
-![WhatsApp Image 2024-03-20 at 3 20 26 PM (1)](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/6081f8cb-3bb4-4ccd-865f-08f1b6a21c9a)
 
 ![WhatsApp Image 2024-03-20 at 7 26 49 PM](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/2cea7bfc-c135-409f-a5a8-5112a4bfb71a)
 
