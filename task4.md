@@ -1,16 +1,12 @@
 # task_4_verilog_simulation
 
-# Aim: To verify the Functional Simulation:-
-
-  
 
 
-
-### 4.2 Installing iverilog and gtkwave
+### Installing iverilog and gtkwave
 
 - **For Ubuntu**
 
- Open your terminal and type the following to install iverilog and GTKWave
+ Open the terminal and type the following to install iverilog and GTKWave
  ```
  $   sudo apt get update
  $   sudo apt get install iverilog gtkwave
@@ -32,7 +28,8 @@ gtkwave ananya.vcd** the following window appears
 ![WhatsApp Image 2024-03-20 at 3 21 26 PM](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/b9b59277-8f93-4302-a661-d9eeaa71e65f)
 
 **now on execution of the above command ananya.vcd**
-![WhatsApp Image 2024-03-20 at 3 21 26 PM](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/29f8ba89-8d07-4b4e-a5b8-557a4d190d08)
+
+![WhatsApp Image 2024-03-20 at 3 20 26 PM (1)](https://github.com/Ananya-KM/Ananya-KM/assets/160317297/c0250d5c-7e40-402f-a96b-fdd087030b74)
 
 
 on adding few signals the waves can be see as follows
